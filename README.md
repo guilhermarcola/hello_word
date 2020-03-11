@@ -1,5 +1,5 @@
 # hello_word
-Tudo começa de algum lugar... HELLO WORD
+Tudo começa em algum lugar... HELLO WORD
 
 
 O primeiro repósitório no GitHub. 
